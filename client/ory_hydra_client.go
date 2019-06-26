@@ -11,10 +11,10 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	"github.com/ory/hydra/sdk/go/hydra/client/admin"
-	"github.com/ory/hydra/sdk/go/hydra/client/health"
-	"github.com/ory/hydra/sdk/go/hydra/client/public"
-	"github.com/ory/hydra/sdk/go/hydra/client/version"
+	"github.com/arifsetiawan/hydra-go-sdk/client/admin"
+	"github.com/arifsetiawan/hydra-go-sdk/client/health"
+	"github.com/arifsetiawan/hydra-go-sdk/client/public"
+	"github.com/arifsetiawan/hydra-go-sdk/client/version"
 )
 
 // Default ory hydra HTTP client.

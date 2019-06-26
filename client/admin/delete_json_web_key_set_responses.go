@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/ory/hydra/sdk/go/hydra/models"
+	models "github.com/arifsetiawan/hydra-go-sdk/models"
 )
 
 // DeleteJSONWebKeySetReader is a Reader for the DeleteJSONWebKeySet structure.
